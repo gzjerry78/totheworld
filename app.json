@@ -2,7 +2,7 @@
     "name": "world",
     "description": "Deploy on Heroku.",
     "keywords": [
-        "V2Ray"
+        "world"
     ],
     "env": {
         "UUID": {
